@@ -1,3 +1,4 @@
+//Maryam_Fatima_26K-3110_PF-THEORY-_ASSIGNMENT_2
 #include <stdio.h>
 void inputReadings(int temp[][50], int sensors, int readings)
 {
