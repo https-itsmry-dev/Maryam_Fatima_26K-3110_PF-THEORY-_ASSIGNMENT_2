@@ -1,3 +1,4 @@
+## Maryam_Fatima_26K-3110_PF-THEORY-_ASSIGNMENT_2
 ## QUESTION 2 PART B TRACEABLE TABLE
 <img width="1275" height="1597" alt="Question 2_PF theory_Assignment_2_page-0001" src="https://github.com/user-attachments/assets/8b02639a-32e8-4b11-bb51-779ecfa482b5" />
 
